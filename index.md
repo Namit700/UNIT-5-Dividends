@@ -15,9 +15,7 @@ Dividends are a distribution of a portion of a company's earnings to its shareho
 - **Signal of Financial Health:** A company's ability to pay dividends can be seen as a signal of its financial health and stability. Companies that pay dividends regularly, especially those that increase them over time, are often viewed favorably by investors. It suggests that the company is generating sufficient profits and has confidence in its future earnings prospects.
 ****
 
----
 **CHARACTERISTICS OF DIVIDENDS**
----
 
 Dividends possess several characteristics that define their nature and significance in the context of corporate finance and investing. Here's a detailed overview of these characteristics:
 
@@ -38,7 +36,6 @@ Dividends possess several characteristics that define their nature and significa
 8. **Investor Preference**: Dividends are attractive to certain types of investors, particularly those seeking income and stability. Dividend-paying stocks are often favored by retirees, income-oriented investors, and those with a conservative investment approach. However, growth-oriented investors may prioritize capital appreciation over dividend income.
 ****
 
----
 **IMPORTANCE OF DIVIDENDS**
 ---
 
@@ -63,7 +60,6 @@ Dividends hold significant importance in both corporate finance and investment s
 9. **Tax Efficiency**: In some jurisdictions, dividend income may be taxed at a lower rate than other forms of income, such as interest or capital gains. This tax advantage makes dividend-paying stocks particularly attractive to certain investors seeking to optimize their tax liabilities.
 ****
 
----
 **ADVANTAGES OF DIVIDENDS**
 ---
 
@@ -96,7 +92,6 @@ Dividends offer several advantages for both companies and investors, contributin
 6. **Alignment of Interests**: Dividend payments align the interests of shareholders and management. Companies that prioritize dividends are incentivized to make decisions that enhance long-term profitability and shareholder value, benefiting investors in the process.
 ****
 
----
 **LIMITATIONS OF DIVIDENDS**
 ---
 
@@ -119,7 +114,7 @@ While dividends offer various benefits, they also come with limitations and cons
 8. **Share Dilution**: When companies issue additional shares to fund dividend payments, existing shareholders may experience dilution of their ownership stake. This dilution can reduce the value of existing shares and lead to a decline in earnings per share, potentially offsetting the benefits of dividend income.
 
 ****
----
+
 **WHAT ARE DIVIDEND POLICIES?**
 ---
 
@@ -140,7 +135,7 @@ Dividend policy refers to the set of guidelines and decisions a company makes re
 7. **Dividend Payout Ratio**: The dividend payout ratio, calculated as the dividends paid divided by net income, is a key metric used to evaluate a company's dividend policy. A high payout ratio indicates that a significant portion of earnings is being distributed as dividends, while a low payout ratio suggests that the company retains more earnings for reinvestment. The appropriate dividend payout ratio depends on factors such as the company's growth prospects, capital requirements, and industry norms.
 ****
 
----
+
 **IMPORTANCE OF DIVIDEND POLICIES**
 ---
 
@@ -163,7 +158,6 @@ Dividend policies are of significant importance in corporate finance and investo
 8. **Complying with Regulatory Requirements**: Dividend policies ensure that companies comply with regulatory requirements and legal obligations related to dividend distributions. Companies must adhere to regulatory guidelines regarding dividend declaration, record dates, payment dates, and disclosure of dividend-related information. Compliance with regulatory requirements helps maintain transparency and fairness in dividend distribution practices, reducing the risk of regulatory scrutiny and legal challenges.
 ****
 
----
 **ADVANTAGES OF DIVIDEND POLICIES**
 ---
 
@@ -194,7 +188,6 @@ Dividend policies offer several advantages for both companies and investors, con
 5. **Long-Term Wealth Creation**: Dividend policies contribute to long-term wealth creation by providing a source of income and reinvestment opportunities for investors. Reinvesting dividends allows investors to compound their returns over time, leading to substantial wealth accumulation and financial security in the future.
 ****
 
----
 **LIMITATIONS OF DIVIDEND POLICIES**
 ---
 
@@ -215,7 +208,6 @@ While dividend policies offer various advantages, they also come with limitation
 7. **Shareholder Dilution**: Dividend policies may lead to shareholder dilution if companies issue additional shares to fund dividend payments. Shareholder dilution can reduce the value of existing shares and lead to a decline in earnings per share, potentially offsetting the benefits of dividend income for shareholders. Dividend policies should consider the impact of share issuance on existing shareholders and seek to minimize dilution whenever possible.
 ****
 
----
 **NEED FOR DIVIDEND POLICIES**
 ---
 
@@ -238,7 +230,6 @@ Dividend policies play a crucial role in corporate finance and investor relation
 8. **Flexibility and Adaptability**: While dividend policies provide a framework for managing dividend payments, they should also allow for flexibility and adaptability to changing market conditions, business needs, and shareholder preferences. Companies may need to adjust their dividend policies over time in response to factors such as fluctuations in earnings, cash flow, or investment opportunities.
 ****
 
----
 **OBJECTIVES OF DIVIDEND POLICIES**
 ---
 
@@ -262,7 +253,7 @@ Dividend policies are formulated with specific objectives in mind, reflecting a 
 ****
 
 TYPES OF DIVIDENDS
----
+
 **CASH DIVIDENDS**
 ---
 
@@ -285,7 +276,6 @@ A cash dividend is a distribution of cash by a corporation to its shareholders, 
 8. **Shareholder Preferences**: Cash dividends are attractive to investors seeking income and stability from their investments. Retirees, income-oriented investors, and those with a conservative investment approach often favor dividend-paying stocks for their steady income stream. Cash dividends provide shareholders with tangible returns on their investment and can contribute to long-term wealth accumulation through dividend reinvestment programs.
 ****
 
----
 **PREFERRED DIVIDENDS**
 ---
 
@@ -308,7 +298,6 @@ Preferred dividends refer to the dividends paid to preferred shareholders, who h
 8. **Legal Considerations**: Companies issuing preferred shares must comply with legal requirements governing dividend payments, as well as any specific terms outlined in the preferred share agreement. Failure to pay preferred dividends as required may result in legal action by preferred shareholders.
 ****
 
----
 **PROPERTY DIVIDENDS**
 ---
 
@@ -331,7 +320,6 @@ Here's a detailed breakdown of property dividends:
 7. **Impact on Shareholders**: Property dividends can have various effects on shareholders. They may benefit shareholders who are interested in acquiring the assets being distributed, especially if they believe they can derive value from them. However, property dividends can also be less desirable for shareholders who prefer cash dividends, as they may incur taxes or have difficulty liquidating the assets.
 ****
 
----
 **SPECIAL DIVIDENDS**
 ---
 
@@ -352,7 +340,6 @@ Special dividends are one-time dividend payments that companies issue to their s
 7. **Regulatory Considerations**: Companies may need to comply with regulatory requirements when issuing special dividends, especially if the dividend payment represents a significant portion of the company's assets or has a material impact on its financial position. Regulatory authorities may require companies to disclose the reasons for the special dividend and ensure that it is in the best interests of shareholders.
 ****
 
----
 **STOCK DIVIDENDS**
 ---
 
@@ -374,9 +361,9 @@ Stock dividends, also known as bonus shares or scrip dividends, are distribution
 
 8. **Investor Preferences**: While some investors may welcome stock dividends as a form of additional investment in the company, others may prefer cash dividends for their immediate income benefits. Stock dividends may be less attractive to income-oriented investors or those seeking liquidity, as they do not provide immediate cash flow. Investor preferences for stock dividends versus cash dividends may vary depending on individual investment objectives and risk tolerance.
 ****
----
+
 **WALTER'S MODEL**
----
+
 **WHAT IS WALTER'S MODEL OF DIVIDEND DECISIONS?**
 ---
 
@@ -398,7 +385,7 @@ Walter's Model, proposed by James E. Walter in 1956, is one of the earliest mode
 
 3. **Walter's Model Equation**:
    
-   $[P = \frac{D}{k}]\$
+   $$[P = \frac{D}{k}]\$$
 
    This equation indicates that the price per share $\(P)\$ is equal to the dividend per share $\D\$ divided by the cost of capital $\(k)\$.
 
@@ -419,7 +406,6 @@ Walter's Model, proposed by James E. Walter in 1956, is one of the earliest mode
 In summary, Walter's Model of dividend decisions provides insights into the optimal dividend policy for a firm based on its internal rate of return, cost of capital, and retention ratio. However, the model has several limitations and may not fully capture the complexities of real-world dividend policy decisions.
 ****
 
----
 ASSUMPTIONS OF WALTER'S MODEL
 ---
 
@@ -442,7 +428,6 @@ Walter's Model of Dividend Policy, proposed by James E. Walter in 1956, lays out
 8. **Perfect Capital Markets**: Finally, Walter's model operates under the assumption of perfect capital markets, where investors have access to all relevant information and can buy or sell securities at fair market prices without incurring transaction costs. This assumption ensures that the market efficiently reflects the impact of dividend policy on firm value.
 ****
 
----
 ADVANTAGES OF WALTER'S MODEL
 ---
 
@@ -463,7 +448,6 @@ Walter's Model of dividend decisions, despite its simplicity and assumptions, of
 7. **Basis for Further Analysis**: While Walter's Model has its limitations, it serves as a foundational framework for more sophisticated dividend policy models. Researchers and practitioners can build upon the basic principles of the model to develop more complex models that incorporate additional factors such as taxes, market imperfections, and risk considerations.
 ****
 
----
 LIMITATIONS OF WALTER'S MODEL
 ---
 
