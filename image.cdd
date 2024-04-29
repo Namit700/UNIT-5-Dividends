@@ -1,0 +1,6 @@
+body {
+    background-image: url('"C:\Users\namit\Downloads\—Slidesdocs—line business creativity creative white_9896d9c231.jpg"');
+    background-size: cover; /* Adjust to cover the entire background */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+}
