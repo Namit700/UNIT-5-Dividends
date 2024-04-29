@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="image.css">
+
+
 **WHAT ARE DIVIDENDS?**
 
 Dividends are a distribution of a portion of a company's earnings to its shareholders, usually in the form of cash or additional shares of stock. They represent a way for companies to share their profits directly with the individuals who own the company's stock. Here's a detailed breakdown of what dividends entail:
