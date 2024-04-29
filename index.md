@@ -1,4 +1,5 @@
 **WHAT ARE DIVIDENDS?**
+
 Dividends are a distribution of a portion of a company's earnings to its shareholders, usually in the form of cash or additional shares of stock. They represent a way for companies to share their profits directly with the individuals who own the company's stock. Here's a detailed breakdown of what dividends entail:
 
 - **Profit Distribution:** When a company generates profits, it can choose to reinvest those earnings back into the business for growth, expansion, or debt reduction. Alternatively, it can distribute a portion of those profits to its shareholders as dividends. Dividends are essentially a way for shareholders to receive their share of the company's earnings.
